@@ -1,0 +1,40 @@
+body{
+    background-color: #ffffff!important;
+}
+.custom-color{
+    color: #8FE3D9;
+}
+.navbar{
+    background-color: #8FE3D9;
+}
+.btn-circle-lg {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 2.4rem;
+    
+}
+.btn-circle {
+    text-align: center;
+    padding: 0;
+    border-radius: 50%;
+}
+.txt-color{
+    color: white;
+}
+.btn-category-medical{
+    width: 70px;
+    height: 70px;
+    line-height: 20px;
+    padding-top: 15px;
+}
+.btn-symbol-size{
+    font-size: 1.5rem;
+}
+.custom-colour-text{
+    color: red;
+}
+/* .navbar .navbar-brand,
+.navbar .navbar-text {
+    color: white;
+} */
